@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         String s = "the sky is blue";
-        String[] words = s.trim().split("\\s+"); // split the string into words
+        String[] words = s.trim().split("\\s+"); 
         StringBuilder sb = new StringBuilder();
 
         for (int i = words.length - 1; i >= 0; i--) {
