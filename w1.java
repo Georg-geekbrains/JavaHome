@@ -12,4 +12,6 @@ public class Main {
         }
 
         String reversed = sb.toString();
-        System.out.println(reversed);
+        System.out.println(reversed)
+   }
+}            
